@@ -19,8 +19,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/sts"
-	"github.com/segmentio/aws-okta/lib/mfa"
-	"github.com/segmentio/aws-okta/lib/saml"
+	"github.com/LukaszRacon/aws-okta/lib/mfa"
+	"github.com/LukaszRacon/aws-okta/lib/saml"
 	log "github.com/sirupsen/logrus"
 )
 

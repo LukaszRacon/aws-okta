@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/segmentio/aws-okta/cmd"
+	"github.com/LukaszRacon/aws-okta/cmd"
 )
 
 // These are set via linker flags
 var (
-	Version           = "dev"
+	Version           = "dev-keyring-key"
 	AnalyticsWriteKey = ""
 )
 

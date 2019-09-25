@@ -168,7 +168,7 @@ This flag enables a new secure session cache that stores all sessions in the sam
 
 No provision is made to migrate sessions between session caches.
 
-Implemented in [https://github.com/segmentio/aws-okta/issues/146](#146).
+Implemented in [https://github.com/LukaszRacon/aws-okta/issues/146](#146).
 
 ## Local Development
 

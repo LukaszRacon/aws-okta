@@ -10,7 +10,7 @@ import (
 	"github.com/alessio/shellescape"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	analytics "github.com/segmentio/analytics-go"
-	"github.com/segmentio/aws-okta/lib"
+	"github.com/LukaszRacon/aws-okta/lib"
 	"github.com/spf13/cobra"
 )
 
